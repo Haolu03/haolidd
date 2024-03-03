@@ -1,0 +1,6 @@
+name = 'Ada lovelace'
+print(name.upper())
+lab_name = 'Abc lovelace'
+print(lab_name.lower())
+last_name = 'alex nihao!'
+print(last_name.title())
