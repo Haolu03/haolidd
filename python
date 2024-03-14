@@ -1,0 +1,3 @@
+#添加开头空白 print("\tpython")
+print('\nlangguages\npython\n\tjavascript')
+#\加空白\n换行  \n\t先换行再加空白
